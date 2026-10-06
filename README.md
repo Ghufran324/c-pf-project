@@ -14,7 +14,7 @@ A C language-based project developed for the Programming Fundamentals course. Th
 
 ```bash
 # 1. Clone this repository
-git clone [https://github.com/Ghufran324/c-pf-project.git](https://github.com/Ghufran324/c-pf-project.git)
+git clone https://github.com/Ghufran324/c-pf-project.git
 
 # 2. Compile using GCC compiler
 gcc "PF Project.c" -o main
